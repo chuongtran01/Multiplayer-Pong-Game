@@ -5,7 +5,7 @@
 # Technologies
 
 - Socket.io
-- Javascript
+- Express
 - HTML
 - CSS
 
