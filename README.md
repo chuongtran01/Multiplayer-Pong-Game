@@ -1,6 +1,6 @@
 # Description
 
-- •	Built a multiplayer, real-time action Pong game
+- Built a multiplayer, real-time action Pong game
 
 # Technologies
 
