@@ -4,8 +4,8 @@
 
 # Technologies
 
-- Javascript
 - Socket.io
+- Javascript
 - HTML
 - CSS
 
